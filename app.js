@@ -4,7 +4,7 @@ const menu = [
     title: "buttermilk pancakes",
     category: "breakfast",
     price: 15.99,
-    img: "./images/item-1.jpeg",
+    img: "./images/JS_Menu_Item-1.jpeg",
     desc: `I'm not basic. You're basic.`,
   },
   {
@@ -12,7 +12,7 @@ const menu = [
     title: "diner double",
     category: "lunch",
     price: 13.99,
-    img: "./images/item-2.jpeg",
+    img: "./images/JS_Menu_Item-2.jpeg",
     desc: `The World's Best Burger... with Bacon. So... The The World's "Bester" Burger? w/Fries `,
   },
   {
@@ -20,7 +20,7 @@ const menu = [
     title: "godzilla milkshake",
     category: "shakes",
     price: 6.99,
-    img: "./images/item-3.jpeg",
+    img: "./images/JS_Menu_Item-3.jpeg",
     desc: `It's a Monster! Run away screaming "Oh Yeah!" instead of "Oh no!"`,
   },
   {
@@ -28,7 +28,7 @@ const menu = [
     title: "country delight",
     category: "breakfast",
     price: 20.99,
-    img: "./images/item-4.jpeg",
+    img: "./images/JS_Menu_Item-4.jpeg",
     desc: `Eggs. Bacon. Cheese. Beans. Coma. `,
   },
   {
@@ -36,7 +36,7 @@ const menu = [
     title: "egg attack",
     category: "lunch",
     price: 22.99,
-    img: "./images/item-5.jpeg",
+    img: "./images/JS_Menu_Item-5.jpeg",
     desc: `The World's Best Burger... with an Omelette.... Weirdo.`,
   },
   {
@@ -44,7 +44,7 @@ const menu = [
     title: "oreo dream",
     category: "shakes",
     price: 18.99,
-    img: "./images/item-6.jpeg",
+    img: "./images/JS_Menu_Item-6.jpeg",
     desc: `No Description Needed.`,
   },
   {
@@ -52,7 +52,7 @@ const menu = [
     title: "bacon overflow",
     category: "breakfast",
     price: 8.99,
-    img: "./images/item-7.jpeg",
+    img: "./images/JS_Menu_Item-7.jpeg",
     desc: `Sure it's healthy! See the lettuce?!`
   },
   {
@@ -60,7 +60,7 @@ const menu = [
     title: "american classic",
     category: "lunch",
     price: 12.99,
-    img: "./images/item-8.jpeg",
+    img: "./images/JS_Menu_Item-8.jpeg",
     desc: `'Murica`,
   },
   {
@@ -68,7 +68,7 @@ const menu = [
     title: "quarantine buddy",
     category: "shakes",
     price: 16.99,
-    img: "./images/item-9.jpeg",
+    img: "./images/JS_Menu_Item-9.jpeg",
     desc: `The World's Safest Date!`,
   },
 ];
