@@ -84,7 +84,7 @@ window.addEventListener("DOMContentLoaded", function () {
 
   // load items
 
-  displayMenuButons();
+  displayMenuButtons();
 });
 
 function displayMenuItems(menuItems) {
@@ -106,7 +106,7 @@ function displayMenuItems(menuItems) {
   return displayMenu.join("");
 }
 
-function displayMenuButons() {
+function displayMenuButtons() {
   // const categories = new Set(menu.map((item) => item.category));
   const categories = menu.reduce(
     function (values, item) {
