@@ -76,7 +76,7 @@ const menu = [
 const sectionCenter = document.querySelector(".section-center");
 const btnContainer = document.querySelector(".btn-container");
 
-// load Items
+// load Items 
 window.addEventListener("DOMContentLoaded", function () {
   // display menu items
   const items = displayMenuItems(menu);
@@ -107,7 +107,6 @@ function displayMenuItems(menuItems) {
 }
 
 function displayMenuButtons() {
-  // const categories = new Set(menu.map((item) => item.category));
   const categories = menu.reduce(
     function (values, item) {
       if (!values.includes(item.category)) {

@@ -1,5 +1,5 @@
 # menu_project
-This is a project that uses classes to create functions that return classes. This allows the class item class in HTML to be returned instead of having redundant code for each item. 
+This is a project that uses classes to create functions that return those classes. This allows the class item class in HTML to be returned instead of having redundant code for each item. 
 
 There are a myriad of other functions used to create an easy to read JavaScript File.  
 
