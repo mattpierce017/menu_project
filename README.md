@@ -20,12 +20,12 @@ Project consists of JavaScript, Classes, and multiple buttons that divide those 
 <p align="center">
 Home Page: <br/>
   <br/>
-<img src="./images/menu_main" height="80%" width="80%" alt="Menu"/>
+<img src="./images/menu_main.png" height="80%" width="80%" alt="Menu"/>
 <br />
 <br />
 Click the "Breafast" button to only see Breakfast Items.  <br/>
   <br/>
-<img src="./images/menu_breakfast" height="80%" width="80%" alt="Menu"/>
+<img src="./images/menu_breakfast.png" height="80%" width="80%" alt="Menu"/>
 <br />
 <br />
 Click the "Lunch" button to only see Lunch Items <br/>
